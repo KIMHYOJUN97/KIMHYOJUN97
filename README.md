@@ -1,6 +1,6 @@
 <p align="center">
-Hi there 👋
-THX For Comming!
+<h3>Hi there 👋
+THX For Comming!</h3>
 </p>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KIMHYOJUN&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Junior%20backend%20developer&descAlignY=51&descAlign=62)

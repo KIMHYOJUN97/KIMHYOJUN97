@@ -1,3 +1,4 @@
+<p align="center">
 ### Hi there 👋
 ## THX For Comming!
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HYOJUN%20KIM&fontSize=90)
@@ -23,6 +24,8 @@ Here are some ideas to get you started:
 
 
 ## 🧑🏻‍💻
+
+</p>
 <p align="center">
 
 <a href="https://velog.io/@hyojunn__">

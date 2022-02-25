@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## My Skills😎
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=HTML5&logoColor=white" />
 
 
 ## 🧑🏻‍💻

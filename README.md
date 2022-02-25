@@ -1,6 +1,6 @@
 <p align="center">
-### Hi there 👋
-## THX For Comming!
+Hi there 👋
+THX For Comming!
 </p>
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HYOJUN%20KIM&fontSize=90)
@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 -->
 
 ## My Skills😎
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-
+<p align="center">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+</p>
 
 ## 🧑🏻‍💻
 

@@ -1,6 +1,8 @@
 <p align="center">
 ### Hi there 👋
 ## THX For Comming!
+</p>
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HYOJUN%20KIM&fontSize=90)
 <!--
 **KIMHYOJUN97/KIMHYOJUN97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +27,6 @@ Here are some ideas to get you started:
 
 ## 🧑🏻‍💻
 
-</p>
 <p align="center">
 
 <a href="https://velog.io/@hyojunn__">

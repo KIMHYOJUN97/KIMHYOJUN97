@@ -1,5 +1,5 @@
 <p align="center">
-<h3>Hi there 👋
+<h3 align='center'>Hi there 👋
 THX For Comming!</h3>
 </p>
 

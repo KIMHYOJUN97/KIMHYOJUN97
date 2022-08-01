@@ -20,7 +20,7 @@ THX For Comming!</h3>
 
 </a>
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KIMHYOJUN97%2Fhyojun&count_bg=%2379C83D&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FFFFFF&title=visited&edge_flat=false" alt="hyojun's hit counter" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KIMHYOJUN97%2Fhyojun&count_bg=%2379C83D&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FFFFFF&title=view&edge_flat=false" alt="hyojun's hit counter" />
 
 </p>
 

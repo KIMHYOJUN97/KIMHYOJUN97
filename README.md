@@ -22,6 +22,9 @@ THX For Comming!</h3>
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KIMHYOJUN97%2Fhyojun&count_bg=%2379C83D&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FFFFFF&title=view&edge_flat=false" alt="hyojun's hit counter" />
 
+### solved.ac
+[![rlagywnsol's Solved.ac stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlagywnsol)](https://solved.ac/rlagywnsol/)
+
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMHYOJUN97&show_icons=true&theme=radical)

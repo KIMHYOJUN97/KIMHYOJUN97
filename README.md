@@ -14,7 +14,7 @@ THX For Comming!</h3>
 
 <p align="center">
 
-<a href="https://hyojunn.tistory.com/">
+<a href="[https://hyojunn.tistory.com/](https://velog.io/@hyojunn__)">
 
 <img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white" alt="hyojun's blog" />
 
